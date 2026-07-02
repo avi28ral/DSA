@@ -28,4 +28,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/avi28ral/DSA/tree/master/0088-merge-sorted-array) |
+## Math
+|  |
+| ------- |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/avi28ral/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 <!---LeetCode Topics End-->
