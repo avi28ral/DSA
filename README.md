@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0088-merge-sorted-array](https://github.com/avi28ral/DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/avi28ral/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/avi28ral/DSA/tree/master/0169-majority-element) |
+| [1720-decode-xored-array](https://github.com/avi28ral/DSA/tree/master/1720-decode-xored-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/avi28ral/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Dynamic Programming
 |  |
@@ -59,4 +60,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1486-xor-operation-in-an-array](https://github.com/avi28ral/DSA/tree/master/1486-xor-operation-in-an-array) |
+| [1720-decode-xored-array](https://github.com/avi28ral/DSA/tree/master/1720-decode-xored-array) |
 <!---LeetCode Topics End-->
