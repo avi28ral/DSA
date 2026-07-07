@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/avi28ral/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/avi28ral/DSA/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/avi28ral/DSA/tree/master/0283-move-zeroes) |
+| [0643-maximum-average-subarray-i](https://github.com/avi28ral/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [1720-decode-xored-array](https://github.com/avi28ral/DSA/tree/master/1720-decode-xored-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/avi28ral/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Dynamic Programming
@@ -68,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1486-xor-operation-in-an-array](https://github.com/avi28ral/DSA/tree/master/1486-xor-operation-in-an-array) |
 | [1720-decode-xored-array](https://github.com/avi28ral/DSA/tree/master/1720-decode-xored-array) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/avi28ral/DSA/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
