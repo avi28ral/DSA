@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0007-reverse-integer](https://github.com/avi28ral/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/avi28ral/DSA/tree/master/0009-palindrome-number) |
+| [0367-valid-perfect-square](https://github.com/avi28ral/DSA/tree/master/0367-valid-perfect-square) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/avi28ral/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/avi28ral/DSA/tree/master/1486-xor-operation-in-an-array) |
 ## String
@@ -83,4 +84,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/avi28ral/DSA/tree/master/0035-search-insert-position) |
+| [0367-valid-perfect-square](https://github.com/avi28ral/DSA/tree/master/0367-valid-perfect-square) |
 <!---LeetCode Topics End-->
