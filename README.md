@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0027-remove-element](https://github.com/avi28ral/DSA/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/avi28ral/DSA/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/avi28ral/DSA/tree/master/0283-move-zeroes) |
+| [0344-reverse-string](https://github.com/avi28ral/DSA/tree/master/0344-reverse-string) |
 ## Sorting
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/avi28ral/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0344-reverse-string](https://github.com/avi28ral/DSA/tree/master/0344-reverse-string) |
 ## Backtracking
 |  |
 | ------- |
