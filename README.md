@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0007-reverse-integer](https://github.com/avi28ral/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/avi28ral/DSA/tree/master/0009-palindrome-number) |
+| [0258-add-digits](https://github.com/avi28ral/DSA/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/avi28ral/DSA/tree/master/0367-valid-perfect-square) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/avi28ral/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/avi28ral/DSA/tree/master/1486-xor-operation-in-an-array) |
@@ -97,4 +98,12 @@ A collection of LeetCode questions to ace the coding interview!
 | [0141-linked-list-cycle](https://github.com/avi28ral/DSA/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/avi28ral/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0876-middle-of-the-linked-list](https://github.com/avi28ral/DSA/tree/master/0876-middle-of-the-linked-list) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/avi28ral/DSA/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/avi28ral/DSA/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
