@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/avi28ral/DSA/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/avi28ral/DSA/tree/master/0367-valid-perfect-square) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/avi28ral/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/avi28ral/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/avi28ral/DSA/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/avi28ral/DSA/tree/master/1512-number-of-good-pairs) |
 ## String
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/avi28ral/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/avi28ral/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/avi28ral/DSA/tree/master/0645-set-mismatch) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/avi28ral/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/avi28ral/DSA/tree/master/1486-xor-operation-in-an-array) |
 | [1720-decode-xored-array](https://github.com/avi28ral/DSA/tree/master/1720-decode-xored-array) |
 ## Sliding Window
