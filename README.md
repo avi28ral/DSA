@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0643-maximum-average-subarray-i](https://github.com/avi28ral/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [1720-decode-xored-array](https://github.com/avi28ral/DSA/tree/master/1720-decode-xored-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/avi28ral/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1920-build-array-from-permutation](https://github.com/avi28ral/DSA/tree/master/1920-build-array-from-permutation) |
 | [2090-k-radius-subarray-averages](https://github.com/avi28ral/DSA/tree/master/2090-k-radius-subarray-averages) |
 ## Dynamic Programming
 |  |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/avi28ral/DSA/tree/master/0258-add-digits) |
+| [1920-build-array-from-permutation](https://github.com/avi28ral/DSA/tree/master/1920-build-array-from-permutation) |
 ## Number Theory
 |  |
 | ------- |
