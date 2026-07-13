@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/avi28ral/DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/avi28ral/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/avi28ral/DSA/tree/master/0283-move-zeroes) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/avi28ral/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0643-maximum-average-subarray-i](https://github.com/avi28ral/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/avi28ral/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/avi28ral/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0160-intersection-of-two-linked-lists](https://github.com/avi28ral/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/avi28ral/DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/avi28ral/DSA/tree/master/0268-missing-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/avi28ral/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
