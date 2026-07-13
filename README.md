@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0645-set-mismatch](https://github.com/avi28ral/DSA/tree/master/0645-set-mismatch) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/avi28ral/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/avi28ral/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1470-shuffle-the-array](https://github.com/avi28ral/DSA/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/avi28ral/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1528-shuffle-string](https://github.com/avi28ral/DSA/tree/master/1528-shuffle-string) |
 | [1672-richest-customer-wealth](https://github.com/avi28ral/DSA/tree/master/1672-richest-customer-wealth) |
