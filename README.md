@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0053-maximum-subarray](https://github.com/avi28ral/DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/avi28ral/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0509-fibonacci-number](https://github.com/avi28ral/DSA/tree/master/0509-fibonacci-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0258-add-digits](https://github.com/avi28ral/DSA/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/avi28ral/DSA/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/avi28ral/DSA/tree/master/0367-valid-perfect-square) |
+| [0509-fibonacci-number](https://github.com/avi28ral/DSA/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/avi28ral/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/avi28ral/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/avi28ral/DSA/tree/master/1486-xor-operation-in-an-array) |
@@ -201,4 +203,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/avi28ral/DSA/tree/master/1672-richest-customer-wealth) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/avi28ral/DSA/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/avi28ral/DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
