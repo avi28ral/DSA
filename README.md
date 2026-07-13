@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0442-find-all-duplicates-in-an-array](https://github.com/avi28ral/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/avi28ral/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0643-maximum-average-subarray-i](https://github.com/avi28ral/DSA/tree/master/0643-maximum-average-subarray-i) |
+| [0645-set-mismatch](https://github.com/avi28ral/DSA/tree/master/0645-set-mismatch) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/avi28ral/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/avi28ral/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1720-decode-xored-array](https://github.com/avi28ral/DSA/tree/master/1720-decode-xored-array) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/avi28ral/DSA/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/avi28ral/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/avi28ral/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0645-set-mismatch](https://github.com/avi28ral/DSA/tree/master/0645-set-mismatch) |
 ## Two Pointers
 |  |
 | ------- |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/avi28ral/DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/avi28ral/DSA/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/avi28ral/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0645-set-mismatch](https://github.com/avi28ral/DSA/tree/master/0645-set-mismatch) |
 ## Math
 |  |
 | ------- |
@@ -98,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0268-missing-number](https://github.com/avi28ral/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/avi28ral/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0645-set-mismatch](https://github.com/avi28ral/DSA/tree/master/0645-set-mismatch) |
 | [1486-xor-operation-in-an-array](https://github.com/avi28ral/DSA/tree/master/1486-xor-operation-in-an-array) |
 | [1720-decode-xored-array](https://github.com/avi28ral/DSA/tree/master/1720-decode-xored-array) |
 ## Sliding Window
