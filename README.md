@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0007-reverse-integer](https://github.com/avi28ral/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/avi28ral/DSA/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/avi28ral/DSA/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/avi28ral/DSA/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/avi28ral/DSA/tree/master/0367-valid-perfect-square) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/avi28ral/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0033-search-in-rotated-sorted-array](https://github.com/avi28ral/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/avi28ral/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/avi28ral/DSA/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/avi28ral/DSA/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/avi28ral/DSA/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/avi28ral/DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/avi28ral/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
