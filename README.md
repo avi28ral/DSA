@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0344-reverse-string](https://github.com/avi28ral/DSA/tree/master/0344-reverse-string) |
 | [1108-defanging-an-ip-address](https://github.com/avi28ral/DSA/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/avi28ral/DSA/tree/master/1528-shuffle-string) |
+| [1678-goal-parser-interpretation](https://github.com/avi28ral/DSA/tree/master/1678-goal-parser-interpretation) |
 ## Backtracking
 |  |
 | ------- |
