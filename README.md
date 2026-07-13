@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0645-set-mismatch](https://github.com/avi28ral/DSA/tree/master/0645-set-mismatch) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/avi28ral/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/avi28ral/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1528-shuffle-string](https://github.com/avi28ral/DSA/tree/master/1528-shuffle-string) |
 | [1720-decode-xored-array](https://github.com/avi28ral/DSA/tree/master/1720-decode-xored-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/avi28ral/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1920-build-array-from-permutation](https://github.com/avi28ral/DSA/tree/master/1920-build-array-from-permutation) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0058-length-of-last-word](https://github.com/avi28ral/DSA/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/avi28ral/DSA/tree/master/0344-reverse-string) |
 | [1108-defanging-an-ip-address](https://github.com/avi28ral/DSA/tree/master/1108-defanging-an-ip-address) |
+| [1528-shuffle-string](https://github.com/avi28ral/DSA/tree/master/1528-shuffle-string) |
 ## Backtracking
 |  |
 | ------- |
