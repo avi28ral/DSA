@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/avi28ral/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0051-n-queens](https://github.com/avi28ral/DSA/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/avi28ral/DSA/tree/master/0052-n-queens-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
