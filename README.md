@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0033-search-in-rotated-sorted-array](https://github.com/avi28ral/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/avi28ral/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/avi28ral/DSA/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/avi28ral/DSA/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/avi28ral/DSA/tree/master/0041-first-missing-positive) |
 | [0051-n-queens](https://github.com/avi28ral/DSA/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/avi28ral/DSA/tree/master/0053-maximum-subarray) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/avi28ral/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/avi28ral/DSA/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/avi28ral/DSA/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/avi28ral/DSA/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/avi28ral/DSA/tree/master/0160-intersection-of-two-linked-lists) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/avi28ral/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/avi28ral/DSA/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/avi28ral/DSA/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/avi28ral/DSA/tree/master/0052-n-queens-ii) |
 ## Divide and Conquer
@@ -215,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/avi28ral/DSA/tree/master/0037-sudoku-solver) |
 | [0832-flipping-an-image](https://github.com/avi28ral/DSA/tree/master/0832-flipping-an-image) |
 | [1672-richest-customer-wealth](https://github.com/avi28ral/DSA/tree/master/1672-richest-customer-wealth) |
 ## Recursion
