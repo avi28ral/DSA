@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0088-merge-sorted-array](https://github.com/avi28ral/DSA/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/avi28ral/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/avi28ral/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/avi28ral/DSA/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/avi28ral/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/avi28ral/DSA/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/avi28ral/DSA/tree/master/0283-move-zeroes) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/avi28ral/DSA/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/avi28ral/DSA/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/avi28ral/DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/avi28ral/DSA/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/avi28ral/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/avi28ral/DSA/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/avi28ral/DSA/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/avi28ral/DSA/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/avi28ral/DSA/tree/master/0190-reverse-bits) |
 ## Counting
@@ -166,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0083-remove-duplicates-from-sorted-list](https://github.com/avi28ral/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/avi28ral/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/avi28ral/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/avi28ral/DSA/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/avi28ral/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0876-middle-of-the-linked-list](https://github.com/avi28ral/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Simulation
@@ -237,4 +241,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/avi28ral/DSA/tree/master/0509-fibonacci-number) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/avi28ral/DSA/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
