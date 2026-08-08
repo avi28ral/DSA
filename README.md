@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0148-sort-list](https://github.com/avi28ral/DSA/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/avi28ral/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/avi28ral/DSA/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/avi28ral/DSA/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/avi28ral/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/avi28ral/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/avi28ral/DSA/tree/master/0344-reverse-string) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0142-linked-list-cycle-ii](https://github.com/avi28ral/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/avi28ral/DSA/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/avi28ral/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0234-palindrome-linked-list](https://github.com/avi28ral/DSA/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/avi28ral/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Simulation
 |  |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0094-binary-tree-inorder-traversal](https://github.com/avi28ral/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/avi28ral/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/avi28ral/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0234-palindrome-linked-list](https://github.com/avi28ral/DSA/tree/master/0234-palindrome-linked-list) |
 ## Interactive
 |  |
 | ------- |
@@ -237,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/avi28ral/DSA/tree/master/0021-merge-two-sorted-lists) |
+| [0234-palindrome-linked-list](https://github.com/avi28ral/DSA/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/avi28ral/DSA/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
