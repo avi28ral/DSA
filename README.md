@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/avi28ral/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1108-defanging-an-ip-address](https://github.com/avi28ral/DSA/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/avi28ral/DSA/tree/master/1528-shuffle-string) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/avi28ral/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1678-goal-parser-interpretation](https://github.com/avi28ral/DSA/tree/master/1678-goal-parser-interpretation) |
 ## Backtracking
 |  |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0232-implement-queue-using-stacks](https://github.com/avi28ral/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/avi28ral/DSA/tree/master/0234-palindrome-linked-list) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/avi28ral/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/avi28ral/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Interactive
 |  |
 | ------- |
@@ -296,8 +298,10 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0020-valid-parentheses](https://github.com/avi28ral/DSA/tree/master/0020-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/avi28ral/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/avi28ral/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Greedy
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/avi28ral/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/avi28ral/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 <!---LeetCode Topics End-->
