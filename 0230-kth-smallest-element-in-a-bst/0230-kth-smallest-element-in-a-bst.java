@@ -23,11 +23,11 @@ class Solution {
             return null;
         }
         TreeNode left = helper(node.left, k);
+        if(left != null) return left;
         count++;
         if(count == k){
             return node;
         }
-        TreeNode right = helper(node.right, k);
-        return left == null ? right : left;
+        return helper(node.right, k);
     }
 }
